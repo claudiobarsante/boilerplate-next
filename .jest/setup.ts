@@ -1,2 +1,2 @@
 import '@testing-library/jest-dom';
-//import 'jest-styled-components';//to improve snapshots
+import 'jest-styled-components';//to improve snapshots
